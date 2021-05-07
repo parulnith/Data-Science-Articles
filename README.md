@@ -25,6 +25,18 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Data Visualisation
 ## Deep Learning
 ## Kaggle
+
+1. [What it takes to become a World No 1 on Kaggle](https://towardsdatascience.com/what-it-takes-to-become-a-world-no-1-on-kaggle-f149df44e98c?sk=63dd3a58d40dbe1df9fb7cd72ea4ede6)
+2. [The inspiring journey of the ‘Beluga’ of Kaggle World 🐋](https://towardsdatascience.com/the-inspiring-journey-of-the-beluga-of-kaggle-world-5409e740a21b?sk=a500e2014feb175eae520931ff43b419)
+3. [Learning from others is imperative to success on Kaggle says this Turkish GrandMaster](https://towardsdatascience.com/learning-from-others-is-imperative-to-success-on-kaggle-says-this-turkish-grandmaster-d8b5bf28ac87?sk=940c646515035c18aca050bab1469364)
+4. [Getting ‘More’ out of your Kaggle Notebooks](https://towardsdatascience.com/getting-more-out-of-your-kaggle-notebooks-fb2530ece942?sk=99d718e3b75d8de58e4c1fb23cdc09c4)
+5. [How a passion for numbers turned this Mechanical Engineer into a Kaggle Grandmaster](https://towardsdatascience.com/how-a-passion-for-numbers-turned-this-mechanical-engineer-into-a-kaggle-grandmaster-8b1ae218afc?sk=067bfa0bd30d280897cae4bf803aed48)
+6. [Geek Girls Rising: Myth or Reality]()
+7. [Meet Yauhen: The first and the only Kaggle Grandmaster from Belarus.]()
+8. [The Data Scientist who rules the ‘Data Science for Good’ competitions on Kaggle.]()
+9. [From Academia to Kaggle: How a Physicist found love in Data Science]()
+10.[A Data Scientist’s journey from Sudoku to Kaggle]()
+
 ## Pandas
 
 1. [Get Interactive plots directly with Pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
