@@ -1,4 +1,4 @@
-[[![View on GitHub](https://img.shields.io/badge/GitHub-blue?logo=GitHub)](https://github.com/parulnith/Data-science)  [![View on Medium](https://img.shields.io/badge/Medium-red?logo=medium)](https://pandeyparul.medium.com/) [![Website](https://img.shields.io/badge/Website-green?logo=wordpress)](https://parulpandey.com) [![RSS Reader](https://img.shields.io/badge/RSS%20Feed%20-Add%20to%20your%20RSS%20Reader-yellowgreend?logo=feedly)](https://medium.com/feed/@pandeyparul) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-blue?logo=GitHub)](https://github.com/parulnith/Data-science)  [![View on Medium](https://img.shields.io/badge/Medium-red?logo=medium)](https://pandeyparul.medium.com/) [![Website](https://img.shields.io/badge/Website-green?logo=wordpress)](https://parulpandey.com) [![RSS Reader](https://img.shields.io/badge/RSS%20Feed%20-Add%20to%20your%20RSS%20Reader-yellowgreend?logo=feedly)](https://medium.com/feed/@pandeyparul) 
 
 
 
@@ -6,6 +6,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
  You can also add [this link](https://medium.com/feed/@pandeyparul) to your RSS feed to get the notifications on my latest articles.
 
+### Note: This is a work in progress
 
 
 # Table of Contents
