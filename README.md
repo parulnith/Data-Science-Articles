@@ -26,18 +26,15 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Kaggle
 ## Pandas
 
-1. Get Interactive plots directly with Pandas.
+1. [Get Interactive plots directly with Pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
 
-2. There is more to ‘pandas.read_csv()’ than meets the eye
-Keep reading
+2. [There is more to ‘pandas.read_csv()’ than meets the eye](https://towardsdatascience.com/there-is-more-to-pandas-read-csv-than-meets-the-eye-8654cb2b3a03?sk=aa22f4549a7243d53f6ee8fb4dcf43d1)
 
-3. A hands-on guide to ‘sorting’ dataframes in Pandas
-Keep reading
+3. [A hands-on guide to ‘sorting’ dataframes in Pandas](https://towardsdatascience.com/a-hands-on-guide-to-sorting-dataframes-in-pandas-384996ca6bb8?sk=abcbdc638ee7604c7442db36cb4095a9)
 
-4. Reducing memory usage in pandas with smaller datatypes
-Keep reading
+4. [Reducing memory usage in pandas with smaller datatypes](https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af?sk=55b417ed722bc364a141a9862ee33893)
 
-5. Loading large datasets in Pandas
+5. [Loading large datasets in Pandas](https://towardsdatascience.com/loading-large-datasets-in-pandas-11bdddd36f7b?sk=a52a0f863382bd2d5b631d81838ea8de)
 
 
 ## Programming
