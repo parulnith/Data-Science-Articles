@@ -23,6 +23,17 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Data Analysis 📈
 ---
 ## Data Visualisation 📊
+
+1.[Get Interactive plots directly with pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
+2.[Cluster Analysis in Tableau](https://towardsdatascience.com/cluster-analysis-in-tableau-1f19acd0c647?sk=beba142dcbbe79a5213406209e863d24)
+3.[Quadrant Analysis in Tableau](https://towardsdatascience.com/quadrant-analysis-in-tableau-6a3ee42d26ff?sk=99cc83e7bf878e9af7ed04ec7a2debd0)
+4.[Visualizing large datasets with H2O](https://towardsdatascience.com/visualizing-large-datasets-with-h2o-ffe9af40371b?sk=69275c90bdfba5d3063744ef121b46bc)
+5.[10 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce?sk=d83538f678998a9c33879cb6e8c5ab54)
+6.[5 ‘More’ Open Source tools to get started with Data Visualisation, easily](https://towardsdatascience.com/5-more-open-source-tools-to-get-started-with-data-visualisation-a03373972f81?sk=26c9a91bdedd006a96a3bb29214fa7c8)
+7.[Advanced plots in Matplotlib - Part 1](https://towardsdatascience.com/advanced-plots-in-matplotlib-part-1-30dbb02b09ae?sk=e6675e1024de967c3b9f226fceb57ef7)
+8.[Advanced plots in Matplotlib — Part 2](https://towardsdatascience.com/advanced-plots-in-matplotlib-part-2-e88f91ce9e31?sk=3acbc10d705871ad2171915c664c3a3d)
+9.[Recreating Gapminder in Tableau: A Humble tribute to Hans Rosling](https://medium.com/analytics-vidhya/recreating-gapminder-in-tableau-a-humble-tribute-to-hans-rosling-53de74b18ec)
+
 ---
 ## Deep Learning
 ---
