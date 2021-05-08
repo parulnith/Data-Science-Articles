@@ -38,7 +38,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Deep Learning
 ---
 
-## Explainable Machine Learning 🧠
+## Explainable AI 🧠
 ---
 ## Kaggle 🏅
 
