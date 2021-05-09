@@ -6,7 +6,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
  You can also add [this link](https://medium.com/feed/@pandeyparul) to your RSS feed to get the notifications on my latest articles.
 
-### Note: This is a work in progress
+### Note: This is a work in progress 🚧 
 
 
 # Table of Contents
