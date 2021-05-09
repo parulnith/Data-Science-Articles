@@ -38,7 +38,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Deep Learning
 ---
 
-## Explainable Machine Learning 🧠
+## Explainable AI 🧠
 ---
 ## Kaggle 🏅
 
@@ -86,6 +86,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 1. [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
 2. [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
+3. [Free hands-on tutorials to get started in Natural Language Processing](https://towardsdatascience.com/free-hands-on-tutorials-to-get-started-in-natural-language-processing-6a378e24dbfc?sk=fb35bce5f004ccba75b960e664d4e26a)
 ---
 ## SQL 📋
 
