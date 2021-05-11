@@ -7,4 +7,4 @@ Spotify, with a net worth of $26 billion is reigning the music streaming platfor
 
 Companies nowadays use music classification, either to be able to place recommendations to their customers (such as Spotify, Soundcloud) or simply as a product (for example Shazam). Determining music genres is the first step in that direction. Machine Learning techniques have proved to be quite successful in extracting trends and patterns from the large pool of data. The same principles are applied in Music Analysis also.
 
-**This is an excerpt taken from a tutorial I wrote on datacamp with the same name.Please find the link to the tutorial [here](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)**
+**This is an excerpt taken from a tutorial I wrote with the same name.Please find the link to the tutorial [here](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)**
