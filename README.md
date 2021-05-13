@@ -105,6 +105,9 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Satellite Imagery Analysis
 ---
 ## Thought Articles on AI 🤔
+
+1. [How to effectively employ an AI strategy in your business](https://towardsdatascience.com/how-to-effectively-employ-an-ai-strategy-in-your-business-d43f41aa3b04?sk=f94309bd931eb8d2f5e2e1bdd5b68efa)
+2. [AI for Everyone: Myth or Reality?](https://towardsdatascience.com/ai-for-everyone-myth-or-reality-44edc24f7982?sk=33894bf027439872081eea6f27e0f984)
 ---
 
 ## Show your support
