@@ -26,7 +26,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 3. [5 Real World datasets for honing your Exploratory Data Analysis skills](https://towardsdatascience.com/5-real-world-datasets-for-exploratory-data-analysis-21b7cc5afe7e?sk=145c99771bacf641f080c410a54ecf9e)
 4. [Getting started with Time Series using Pandas](https://towardsdatascience.com/getting-started-with-time-series-using-pandas-b6b9c9d11949?sk=94c4cf78cd2e072ed3287b46080d7aa1)
 5. [Awesome JupyterLab Extensions](https://towardsdatascience.com/awesome-jupyterlab-extensions-90c2d64d244?sk=05b4aa200ad5a9f3f77b6b4734e4396a)
-6. I[mport HTML tables into Google Sheets effortlessly](https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9?sk=055cab2f2fdf13c5c7abc3cfef92c221)
+6. [Import HTML tables into Google Sheets effortlessly](https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9?sk=055cab2f2fdf13c5c7abc3cfef92c221)
 7. [Getting Datasets for Data Analysis tasks - Useful sites for finding datasets](https://towardsdatascience.com/useful-sites-for-finding-datasets-for-data-analysis-tasks-1edb8f26c34d?sk=9f23c9bf18b1654bd0a68b7530ae09df)
 8. [Getting Datasets for Data Analysis tasks — Advanced Google Search](https://towardsdatascience.com/getting-datasets-for-data-analysis-tasks-advanced-google-search-b1c01f9cc324?sk=bc484654ed68d71ff49c4135a24c0072)
 9. [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b?sk=421f37ea0b7151a3207c113877abe4f0)
@@ -34,21 +34,26 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 ## Data Visualisation 📊
 
-1. [Get Interactive plots directly with pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
-2. [Cluster Analysis in Tableau](https://towardsdatascience.com/cluster-analysis-in-tableau-1f19acd0c647?sk=beba142dcbbe79a5213406209e863d24)
-3. [Quadrant Analysis in Tableau](https://towardsdatascience.com/quadrant-analysis-in-tableau-6a3ee42d26ff?sk=99cc83e7bf878e9af7ed04ec7a2debd0)
-4. [Visualizing large datasets with H2O](https://towardsdatascience.com/visualizing-large-datasets-with-h2o-ffe9af40371b?sk=69275c90bdfba5d3063744ef121b46bc)
-5. [10 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce?sk=d83538f678998a9c33879cb6e8c5ab54)
-6. [5 ‘More’ Open Source tools to get started with Data Visualisation, easily](https://towardsdatascience.com/5-more-open-source-tools-to-get-started-with-data-visualisation-a03373972f81?sk=26c9a91bdedd006a96a3bb29214fa7c8)
-7. [Advanced plots in Matplotlib - Part 1](https://towardsdatascience.com/advanced-plots-in-matplotlib-part-1-30dbb02b09ae?sk=e6675e1024de967c3b9f226fceb57ef7)
-8. [Advanced plots in Matplotlib — Part 2](https://towardsdatascience.com/advanced-plots-in-matplotlib-part-2-e88f91ce9e31?sk=3acbc10d705871ad2171915c664c3a3d)
-9. [Recreating Gapminder in Tableau: A Humble tribute to Hans Rosling](https://medium.com/analytics-vidhya/recreating-gapminder-in-tableau-a-humble-tribute-to-hans-rosling-53de74b18ec)
+* [A better way to visualize Decision Trees with the dtreeviz library](https://towardsdatascience.com/a-better-way-to-visualize-decision-trees-with-the-dtreeviz-library-758994cdf05e?sk=ad5fcdf665e07388a829bb5320be9a6f)
+
+* [Get Interactive plots directly with pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
+
+* [Cluster Analysis in Tableau](https://towardsdatascience.com/cluster-analysis-in-tableau-1f19acd0c647?sk=beba142dcbbe79a5213406209e863d24)
+* [Quadrant Analysis in Tableau](https://towardsdatascience.com/quadrant-analysis-in-tableau-6a3ee42d26ff?sk=99cc83e7bf878e9af7ed04ec7a2debd0)
+* [Visualizing large datasets with H2O](https://towardsdatascience.com/visualizing-large-datasets-with-h2o-ffe9af40371b?sk=69275c90bdfba5d3063744ef121b46bc)
+* [10 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce?sk=d83538f678998a9c33879cb6e8c5ab54)
+* [5 ‘More’ Open Source tools to get started with Data Visualisation, easily](https://towardsdatascience.com/5-more-open-source-tools-to-get-started-with-data-visualisation-a03373972f81?sk=26c9a91bdedd006a96a3bb29214fa7c8)
+* [Advanced plots in Matplotlib - Part 1](https://towardsdatascience.com/advanced-plots-in-matplotlib-part-1-30dbb02b09ae?sk=e6675e1024de967c3b9f226fceb57ef7)
+* [Advanced plots in Matplotlib — Part 2](https://towardsdatascience.com/advanced-plots-in-matplotlib-part-2-e88f91ce9e31?sk=3acbc10d705871ad2171915c664c3a3d)
+* [Recreating Gapminder in Tableau: A Humble tribute to Hans Rosling](https://medium.com/analytics-vidhya/recreating-gapminder-in-tableau-a-humble-tribute-to-hans-rosling-53de74b18ec)
 
 ---
 ## Deep Learning
 ---
 
 ## Explainable AI 🧠
+
+* [Shapley summary plots: the latest addition to the H2O.ai’s Explainability arsenal](https://pandeyparul.medium.com/shapley-summary-plots-the-latest-addition-to-the-h2o-ais-explainability-arsenal-fe640ace9125)
 ---
 ## Kaggle 🏅
 
@@ -71,20 +76,25 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 3. [A hands-on guide to ‘sorting’ dataframes in Pandas](https://towardsdatascience.com/a-hands-on-guide-to-sorting-dataframes-in-pandas-384996ca6bb8?sk=abcbdc638ee7604c7442db36cb4095a9)
 4. [Reducing memory usage in pandas with smaller datatypes](https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af?sk=55b417ed722bc364a141a9862ee33893)
 5. [Loading large datasets in Pandas](https://towardsdatascience.com/loading-large-datasets-in-pandas-11bdddd36f7b?sk=a52a0f863382bd2d5b631d81838ea8de)
+6. [Extracting information from XML files into a Pandas dataframe](https://towardsdatascience.com/extracting-information-from-xml-files-into-a-pandas-dataframe-11f32883ce45?sk=1e4637acfc8564ce81f679d37146bb5d)
 
 ---
 
 ## Programming & Python ⌨️  🐍
 
-1. [Enabling notifications in your Jupyter notebooks for cell completion](https://towardsdatascience.com/enabling-notifications-in-your-jupyter-notebooks-for-cell-completion-68d82b02bbc6?sk=0c1fc422f1cbde1b770dea7b87082473)
-2. [Using Python’s datatable library seamlessly on Kaggle](https://towardsdatascience.com/using-pythons-datatable-library-seamlessly-on-kaggle-f221d02838c7?sk=d26861b47c4b4f845e7cba38c644fe12)
-3. [Basics of BASH for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a?sk=8a0146292e6af5c5743d74b646eee1d4)
-4. [Useful pip commands for Data Science](https://towardsdatascience.com/useful-pip-commands-in-data-science-6632c7fd2d0a?sk=a2d7b568bc02665b3f6125afafd99efb)
-5. [Getting more value from the Pandas’ value_counts()](https://towardsdatascience.com/getting-more-value-from-the-pandas-value-counts-aa17230907a6?sk=775dec08704a9b9b8a36489074ca3c15)
-6. [Speed up your Data Analysis with Python’s Datatable package](https://towardsdatascience.com/speed-up-your-data-analysis-with-pythons-datatable-package-56e071a909e9?sk=2133964da69c39d2b80a53eb379166c2)
-7. [Useful String Methods in Python](https://towardsdatascience.com/useful-string-methods-in-python-5047ea4d3f90?sk=2297f52e81baab4ed0b7371519e7246f)
-8. [Elements of Functional Programming in Python](https://towardsdatascience.com/elements-of-functional-programming-in-python-1b295ea5bbe0?sk=9a8fce3aca4c4ab71489be6b254778b0)
-9. [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9?sk=4b2304e83b424765432ee103b17abb3a)
+* [Five wonderful uses of ‘f- Strings’ in Python](https://towardsdatascience.com/five-wonderful-uses-of-f-strings-in-python-7980cfd31c0d?sk=f203abd1f85894bb5841bafdf00312ab)
+
+* [Use Colab more efficiently with these hacks](https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8?sk=e1a969fa2e30792b8d362af67dd14f0e)
+
+* [Enabling notifications in your Jupyter notebooks for cell completion](https://towardsdatascience.com/enabling-notifications-in-your-jupyter-notebooks-for-cell-completion-68d82b02bbc6?sk=0c1fc422f1cbde1b770dea7b87082473)
+* [Using Python’s datatable library seamlessly on Kaggle](https://towardsdatascience.com/using-pythons-datatable-library-seamlessly-on-kaggle-f221d02838c7?sk=d26861b47c4b4f845e7cba38c644fe12)
+* [Basics of BASH for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a?sk=8a0146292e6af5c5743d74b646eee1d4)
+* [Useful pip commands for Data Science](https://towardsdatascience.com/useful-pip-commands-in-data-science-6632c7fd2d0a?sk=a2d7b568bc02665b3f6125afafd99efb)
+* [Getting more value from the Pandas’ value_counts()](https://towardsdatascience.com/getting-more-value-from-the-pandas-value-counts-aa17230907a6?sk=775dec08704a9b9b8a36489074ca3c15)
+* [Speed up your Data Analysis with Python’s Datatable package](https://towardsdatascience.com/speed-up-your-data-analysis-with-pythons-datatable-package-56e071a909e9?sk=2133964da69c39d2b80a53eb379166c2)
+* [Useful String Methods in Python](https://towardsdatascience.com/useful-string-methods-in-python-5047ea4d3f90?sk=2297f52e81baab4ed0b7371519e7246f)
+* [Elements of Functional Programming in Python](https://towardsdatascience.com/elements-of-functional-programming-in-python-1b295ea5bbe0?sk=9a8fce3aca4c4ab71489be6b254778b0)
+* [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9?sk=4b2304e83b424765432ee103b17abb3a)
 ---
 
 
