@@ -35,9 +35,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Data Visualisation 📊
 
 * [A better way to visualize Decision Trees with the dtreeviz library](https://towardsdatascience.com/a-better-way-to-visualize-decision-trees-with-the-dtreeviz-library-758994cdf05e?sk=ad5fcdf665e07388a829bb5320be9a6f)
-
 * [Get Interactive plots directly with pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
-
 * [Cluster Analysis in Tableau](https://towardsdatascience.com/cluster-analysis-in-tableau-1f19acd0c647?sk=beba142dcbbe79a5213406209e863d24)
 * [Quadrant Analysis in Tableau](https://towardsdatascience.com/quadrant-analysis-in-tableau-6a3ee42d26ff?sk=99cc83e7bf878e9af7ed04ec7a2debd0)
 * [Visualizing large datasets with H2O](https://towardsdatascience.com/visualizing-large-datasets-with-h2o-ffe9af40371b?sk=69275c90bdfba5d3063744ef121b46bc)
@@ -83,9 +81,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Programming & Python ⌨️  🐍
 
 * [Five wonderful uses of ‘f- Strings’ in Python](https://towardsdatascience.com/five-wonderful-uses-of-f-strings-in-python-7980cfd31c0d?sk=f203abd1f85894bb5841bafdf00312ab)
-
 * [Use Colab more efficiently with these hacks](https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8?sk=e1a969fa2e30792b8d362af67dd14f0e)
-
 * [Enabling notifications in your Jupyter notebooks for cell completion](https://towardsdatascience.com/enabling-notifications-in-your-jupyter-notebooks-for-cell-completion-68d82b02bbc6?sk=0c1fc422f1cbde1b770dea7b87082473)
 * [Using Python’s datatable library seamlessly on Kaggle](https://towardsdatascience.com/using-pythons-datatable-library-seamlessly-on-kaggle-f221d02838c7?sk=d26861b47c4b4f845e7cba38c644fe12)
 * [Basics of BASH for Beginners](https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a?sk=8a0146292e6af5c5743d74b646eee1d4)
