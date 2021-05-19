@@ -3,12 +3,19 @@ The repository contains the code for the accompanying blogpost titled [A better 
 
 
 
-## Run
+## Installation
 
 ```
-python -m virtualenv dtreeviz_demo
-source dtreeviz_demo/bin/activate
-pip install -r requirements.txt
+#conda
+conda uninstall python-graphviz
+conda uninstall graphviz
+
+#pip
+pip install dtreeviz             # install dtreeviz for sklearn
+pip install dtreeviz[xgboost]    # install XGBoost related dependency
+pip install dtreeviz[pyspark]    # install pyspark related dependency
+pip install dtreeviz[lightgbm]   # install LightGBM related dependency
+This should also pull in the graphviz Python library (>=0.9), which we are using for platform specific stuff.
 
 ```
-Then run A better way to visualize Decision Trees with the dtreeviz library.ipynb notebook.
+For details see: https://github.com/parrt/dtreeviz
