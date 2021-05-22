@@ -79,7 +79,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 4. [Reducing memory usage in pandas with smaller datatypes](https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af?sk=55b417ed722bc364a141a9862ee33893)
 5. [Loading large datasets in Pandas](https://towardsdatascience.com/loading-large-datasets-in-pandas-11bdddd36f7b?sk=a52a0f863382bd2d5b631d81838ea8de)
 6. [Extracting information from XML files into a Pandas dataframe](https://towardsdatascience.com/extracting-information-from-xml-files-into-a-pandas-dataframe-11f32883ce45?sk=1e4637acfc8564ce81f679d37146bb5d)
-
+7. [PandasGUI: Analyzing Pandas dataframes with a Graphical User Interface](https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d?sk=d7f8f67ed76d07fbe3265f6362b74572)
 ---
 
 ## Programming & Python ⌨️  🐍
