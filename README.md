@@ -19,7 +19,10 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Computer Vision 👓
 ---
+* [Increasing the amount and diversity of data using scikit-image in Python](https://towardsdatascience.com/increasing-the-amount-and-diversity-of-data-part-1-2025caf9d53c?sk=1a6ee2e4eaf01fa30714ad568242e201)
+* [Creating custom image datasets for Deep Learning projects](https://towardsdatascience.com/creating-custom-image-datasets-for-deep-learning-projects-6e5db76158d4?sk=22bb520dc0a256b2da93877521fc1b71)
 
+---
 ## Data Analysis 📈
 1. [The curious case of Simpson’s Paradox](https://towardsdatascience.com/the-curious-case-of-simpsons-paradox-6f178548d7e8?sk=ef5825185b5781525f0de82c9b23bf70)
 2. [Reducing memory usage in pandas with smaller datatypes](https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af?sk=55b417ed722bc364a141a9862ee33893)
