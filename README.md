@@ -95,6 +95,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Useful String Methods in Python](https://towardsdatascience.com/useful-string-methods-in-python-5047ea4d3f90?sk=2297f52e81baab4ed0b7371519e7246f)
 * [Elements of Functional Programming in Python](https://towardsdatascience.com/elements-of-functional-programming-in-python-1b295ea5bbe0?sk=9a8fce3aca4c4ab71489be6b254778b0)
 * [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9?sk=4b2304e83b424765432ee103b17abb3a)
+* [Python’s Collections Module — High-performance container data types](https://towardsdatascience.com/pythons-collections-module-high-performance-container-data-types-cb4187afb5fc?source=friends_link&sk=00f3829be8da82a208adb57f974d3550)
 ---
 
 
