@@ -22,7 +22,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Increasing the amount and diversity of data using scikit-image in Python](https://towardsdatascience.com/increasing-the-amount-and-diversity-of-data-part-1-2025caf9d53c?sk=1a6ee2e4eaf01fa30714ad568242e201)
 * [Creating custom image datasets for Deep Learning projects](https://towardsdatascience.com/creating-custom-image-datasets-for-deep-learning-projects-6e5db76158d4?sk=22bb520dc0a256b2da93877521fc1b71)
 * [Vegetation Index calculation from Satellite Imagery](https://towardsdatascience.com/vegetation-index-calculation-from-satellite-imagery-6f5c209cbdb1?sk=1c69961cdc840647c5c6ed7f0096ae8e)
-
+* [Face Detection with Python using OpenCV](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a?source=friends_link&sk=2f50e499bec15b1a628ec173664b25fb)
 ---
 ## Data Analysis 📈
 1. [The curious case of Simpson’s Paradox](https://towardsdatascience.com/the-curious-case-of-simpsons-paradox-6f178548d7e8?sk=ef5825185b5781525f0de82c9b23bf70)
