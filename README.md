@@ -102,6 +102,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Machine Learning 🤖
 *  [Understanding Decision Trees](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-decision-trees-c24dfd490abb?source=friends_link&sk=2a253a6f63ac3ed25aea783a9eed4de1)
 * [Alternative Python libraries for Data Science](https://towardsdatascience.com/alternative-python-libraries-for-data-science-1ae2f0611542?sk=50fa405d4fce73638895e77730426c8f)
+* [Demystifying Neural Networks: A Mathematical Approach (Part 1)](https://medium.com/analytics-vidhya/demystifying-neural-networks-a-mathematical-approach-part-1-4e10bed61400?source=friends_link&sk=a0887802055330afd5631f893b8b2135)
 ---
 ## Meetup Summaries 🗓️
 ---
