@@ -130,7 +130,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 Give a 🌟 if this project helped you! 
 
 ## LICENSE: 
-Feel free to use the material but please do cite the source. 
+Feel free to use the material but please do cite the source.  
 
 
 
