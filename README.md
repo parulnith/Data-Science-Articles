@@ -55,6 +55,8 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Explainable AI 🧠
 
+* [Interpretable or Accurate? Why not both?](https://towardsdatascience.com/interpretable-or-accurate-why-not-both-4d9c73512192?sk=2f44377541a2f49939c921e54eb3cde7)
+
 * [Shapley summary plots: the latest addition to the H2O.ai’s Explainability arsenal](https://pandeyparul.medium.com/shapley-summary-plots-the-latest-addition-to-the-h2o-ais-explainability-arsenal-fe640ace9125)
 ---
 ## Kaggle 🏅
