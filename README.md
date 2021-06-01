@@ -109,6 +109,11 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 ## Meetup Summaries 🗓️
 ---
+
+---
+## Data Science Resources 
+* [My Top Five Data Science Reads of 2018](https://towardsdatascience.com/my-top-five-data-science-reads-of-2018-687afadcbe29)
+---
 ## Natural Language Processing 💬
 
 1. [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
