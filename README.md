@@ -10,6 +10,12 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 
 # Table of Contents
+
+## Tips & Tricks
+* [Automate your data science project structure in three easy steps](https://towardsdatascience.com/automate-your-data-science-project-structure-in-three-easy-steps-277c92328d24?sk=72df9f0f306dd6deb4be757008e3b956)
+
+---
+
 ## Automated Machine Learning ⚙️
 1. [H2O AI Hybrid Cloud: Democratizing AI for every person and every organization](https://pandeyparul.medium.com/h2o-ai-hybrid-cloud-democratizing-ai-for-every-person-and-every-organization-8ebe770f15e8)
 2. [Automate your Model Documentation using H2O AutoDoc](https://towardsdatascience.com/automate-your-model-documentation-using-h2o-autodoc-46ce82701a4d)
