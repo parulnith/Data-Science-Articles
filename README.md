@@ -31,7 +31,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Face Detection with Python using OpenCV](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a?source=friends_link&sk=2f50e499bec15b1a628ec173664b25fb)
 ---
 ## Data Analysis 📈
-1. [The curious case of Simpson’s Paradox](https://towardsdatascience.com/the-curious-case-of-simpsons-paradox-6f178548d7e8?sk=ef5825185b5781525f0de82c9b23bf70)
+* [The curious case of Simpson’s Paradox](https://towardsdatascience.com/the-curious-case-of-simpsons-paradox-6f178548d7e8?sk=ef5825185b5781525f0de82c9b23bf70)
 2. [Reducing memory usage in pandas with smaller datatypes](https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af?sk=55b417ed722bc364a141a9862ee33893)
 3. [5 Real World datasets for honing your Exploratory Data Analysis skills](https://towardsdatascience.com/5-real-world-datasets-for-exploratory-data-analysis-21b7cc5afe7e?sk=145c99771bacf641f080c410a54ecf9e)
 4. [Getting started with Time Series using Pandas](https://towardsdatascience.com/getting-started-with-time-series-using-pandas-b6b9c9d11949?sk=94c4cf78cd2e072ed3287b46080d7aa1)
