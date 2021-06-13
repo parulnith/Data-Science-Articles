@@ -17,9 +17,9 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 
 ## Automated Machine Learning ⚙️
-1. [H2O AI Hybrid Cloud: Democratizing AI for every person and every organization](https://pandeyparul.medium.com/h2o-ai-hybrid-cloud-democratizing-ai-for-every-person-and-every-organization-8ebe770f15e8)
-2. [Automate your Model Documentation using H2O AutoDoc](https://towardsdatascience.com/automate-your-model-documentation-using-h2o-autodoc-46ce82701a4d)
-3. [A Deep dive into H2O’s AutoML](https://towardsdatascience.com/a-deep-dive-into-h2os-automl-4b1fe51d3f3e)
+* [H2O AI Hybrid Cloud: Democratizing AI for every person and every organization](https://pandeyparul.medium.com/h2o-ai-hybrid-cloud-democratizing-ai-for-every-person-and-every-organization-8ebe770f15e8)
+* [Automate your Model Documentation using H2O AutoDoc](https://towardsdatascience.com/automate-your-model-documentation-using-h2o-autodoc-46ce82701a4d)
+* [A Deep dive into H2O’s AutoML](https://towardsdatascience.com/a-deep-dive-into-h2os-automl-4b1fe51d3f3e)
 
 ---
 
