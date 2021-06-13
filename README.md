@@ -36,10 +36,10 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [5 Real World datasets for honing your Exploratory Data Analysis skills](https://towardsdatascience.com/5-real-world-datasets-for-exploratory-data-analysis-21b7cc5afe7e?sk=145c99771bacf641f080c410a54ecf9e)
 * [Getting started with Time Series using Pandas](https://towardsdatascience.com/getting-started-with-time-series-using-pandas-b6b9c9d11949?sk=94c4cf78cd2e072ed3287b46080d7aa1)
 * [Awesome JupyterLab Extensions](https://towardsdatascience.com/awesome-jupyterlab-extensions-90c2d64d244?sk=05b4aa200ad5a9f3f77b6b4734e4396a)
-6. [Import HTML tables into Google Sheets effortlessly](https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9?sk=055cab2f2fdf13c5c7abc3cfef92c221)
-7. [Getting Datasets for Data Analysis tasks - Useful sites for finding datasets](https://towardsdatascience.com/useful-sites-for-finding-datasets-for-data-analysis-tasks-1edb8f26c34d?sk=9f23c9bf18b1654bd0a68b7530ae09df)
-8. [Getting Datasets for Data Analysis tasks — Advanced Google Search](https://towardsdatascience.com/getting-datasets-for-data-analysis-tasks-advanced-google-search-b1c01f9cc324?sk=bc484654ed68d71ff49c4135a24c0072)
-9. [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b?sk=421f37ea0b7151a3207c113877abe4f0)
+* [Import HTML tables into Google Sheets effortlessly](https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9?sk=055cab2f2fdf13c5c7abc3cfef92c221)
+* [Getting Datasets for Data Analysis tasks - Useful sites for finding datasets](https://towardsdatascience.com/useful-sites-for-finding-datasets-for-data-analysis-tasks-1edb8f26c34d?sk=9f23c9bf18b1654bd0a68b7530ae09df)
+* [Getting Datasets for Data Analysis tasks — Advanced Google Search](https://towardsdatascience.com/getting-datasets-for-data-analysis-tasks-advanced-google-search-b1c01f9cc324?sk=bc484654ed68d71ff49c4135a24c0072)
+* [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b?sk=421f37ea0b7151a3207c113877abe4f0)
 
 ---
 ## Data Visualisation 📊
