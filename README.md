@@ -11,6 +11,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 # Table of Contents
 
+
 ## Tips & Tricks
 * [Automate your data science project structure in three easy steps](https://towardsdatascience.com/automate-your-data-science-project-structure-in-three-easy-steps-277c92328d24?sk=72df9f0f306dd6deb4be757008e3b956)
 
@@ -124,7 +125,6 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Reviewing the recently released HuggingFace 🤗 Course](https://towardsdatascience.com/reviewing-the-recently-released-huggingface-course-a6b4ace16167?sk=43cdf302bdb0b3c07d1c1bbe421e3955)
 ---
 
----
 ## Data Science Resources 
 * [My Top Five Data Science Reads of 2018](https://towardsdatascience.com/my-top-five-data-science-reads-of-2018-687afadcbe29)
 ---
