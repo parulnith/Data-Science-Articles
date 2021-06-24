@@ -68,8 +68,9 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 ## Kaggle 🏅
 
-1. [What it takes to become a World No 1 on Kaggle](https://towardsdatascience.com/what-it-takes-to-become-a-world-no-1-on-kaggle-f149df44e98c?sk=63dd3a58d40dbe1df9fb7cd72ea4ede6)
-2. [Meet the Data Scientist who just cannot stop winning on Kaggle](https://towardsdatascience.com/meet-the-data-scientist-who-just-cannot-stop-winning-on-kaggle-dfc0e6fe88f8?sk=bd58ca871ab26ab13917b338020c4a0c)
+* [What does it take to win a Kaggle competition? Let’s hear it from the winner himself](https://towardsdatascience.com/what-does-it-take-to-win-a-kaggle-competition-lets-hear-it-from-the-winner-himself-1d292a9f5b2d?sk=4125c06bbc74230d60c748021345575e)
+* [What it takes to become a World No 1 on Kaggle](https://towardsdatascience.com/what-it-takes-to-become-a-world-no-1-on-kaggle-f149df44e98c?sk=63dd3a58d40dbe1df9fb7cd72ea4ede6)
+* [Meet the Data Scientist who just cannot stop winning on Kaggle](https://towardsdatascience.com/meet-the-data-scientist-who-just-cannot-stop-winning-on-kaggle-dfc0e6fe88f8?sk=bd58ca871ab26ab13917b338020c4a0c)
 3. [The inspiring journey of the ‘Beluga’ of Kaggle World 🐋](https://towardsdatascience.com/the-inspiring-journey-of-the-beluga-of-kaggle-world-5409e740a21b?sk=a500e2014feb175eae520931ff43b419)
 4. [Learning from others is imperative to success on Kaggle says this Turkish GrandMaster](https://towardsdatascience.com/learning-from-others-is-imperative-to-success-on-kaggle-says-this-turkish-grandmaster-d8b5bf28ac87?sk=940c646515035c18aca050bab1469364)
 5. [Getting ‘More’ out of your Kaggle Notebooks](https://towardsdatascience.com/getting-more-out-of-your-kaggle-notebooks-fb2530ece942?sk=99d718e3b75d8de58e4c1fb23cdc09c4)
