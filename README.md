@@ -1,4 +1,4 @@
-[![View on Medium](https://img.shields.io/badge/Medium-grey?logo=medium)](https://pandeyparul.medium.com/) [![Website](https://img.shields.io/badge/Website-green?logo=wordpress)](https://parulpandey.com) [![Twitter](https://img.shields.io/twitter/follow/pandeyparul)](https://twitter.com/pandeyparul)
+[![View on Medium](https://img.shields.io/badge/Medium-grey?logo=medium)](https://pandeyparul.medium.com/) [![Website](https://img.shields.io/badge/Website-blue?logo=wordpress)](https://parulpandey.com) [![Twitter](https://img.shields.io/twitter/follow/pandeyparul)](https://twitter.com/pandeyparul)
 
 
 
