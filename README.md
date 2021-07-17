@@ -1,4 +1,4 @@
-[![View on GitHub](https://img.shields.io/badge/GitHub-blue?logo=GitHub)](https://github.com/parulnith/Data-science)  [![View on Medium](https://img.shields.io/badge/Medium-red?logo=medium)](https://pandeyparul.medium.com/) [![Website](https://img.shields.io/badge/Website-green?logo=wordpress)](https://parulpandey.com) [![Twitter](https://img.shields.io/twitter/follow/pandeyparul)](https://twitter.com/pandeyparul)
+[![View on GitHub](https://img.shields.io/badge/GitHub-blue?logo=GitHub)](https://github.com/parulnith/Data-science)  [![View on Medium](https://img.shields.io/badge/Medium-grey?logo=medium)](https://pandeyparul.medium.com/) [![Website](https://img.shields.io/badge/Website-green?logo=wordpress)](https://parulpandey.com) [![Twitter](https://img.shields.io/twitter/follow/pandeyparul)](https://twitter.com/pandeyparul)
 
 
 
