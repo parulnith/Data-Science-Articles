@@ -1,6 +1,10 @@
+
+<div align='center'>
+
+
 [![View on Medium](https://img.shields.io/badge/Medium-grey?logo=medium)](https://pandeyparul.medium.com/) [![Website](https://img.shields.io/badge/Website-blue?logo=wordpress)](https://parulpandey.com) [![Twitter](https://img.shields.io/twitter/follow/pandeyparul)](https://twitter.com/pandeyparul)
 
-
+</div>
 
 A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul) as well as my [website](parulpandey.com)
 
