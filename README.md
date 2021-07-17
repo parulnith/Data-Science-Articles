@@ -6,9 +6,9 @@
 
 </div>
 
-A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul) as well as my [website](parulpandey.com)
+A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul) as well as my [Website](parulpandey.com).
 
- You can also add [this link](https://medium.com/feed/@pandeyparul) to your RSS feed to get the notifications on my latest articles.
+- You can also add [this link](https://medium.com/feed/@pandeyparul) to your RSS feed to get the notifications on my latest articles.
 
 
 
