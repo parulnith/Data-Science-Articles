@@ -1,0 +1,11 @@
+﻿Order ID,Category,Category ID,Sales,Quantity,Discount,Month
+1,Apparels,1001,89.00,2,0.2,Jan
+1.1,Electronics,1003,65.00,87,0.2,Jan
+1.2,Cosmetics,1002,272.74,3,0.2,Jan
+1.3,Apparels,1001,3.54,2,0.8,Jan
+1.4,Cosmetics,1002,19.54,3,0.2,Jan
+1.5,Electronics,1003,19.44,3,0,Jan
+1.6,Apparels,1001,12.78,3,0,Jan
+1.7,Apparels,1001,2573.82,9,0,Jan
+1.8,Cosmetics,1002,609.98,2,0,Jan
+1.9,Apparels,1001,300.00,10,0.5,Jan
