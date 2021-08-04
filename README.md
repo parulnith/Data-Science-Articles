@@ -15,8 +15,14 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 # Table of Contents
 
 
-## Tips & Tricks
+## Tips & Tricks 💡
 * [Automate your data science project structure in three easy steps](https://towardsdatascience.com/automate-your-data-science-project-structure-in-three-easy-steps-277c92328d24?sk=72df9f0f306dd6deb4be757008e3b956)
+* [Building a compelling Data Science Portfolio with writing](https://towardsdatascience.com/building-a-compelling-data-science-portfolio-with-writing-daceec1cd0fe?sk=55c213f08bf791f52bb0532693d5ff61)
+---
+
+# Research Paper Summaries
+
+* [What you see is what you’ll get: Twitter’s new strategy for displaying Images on the timeline](https://towardsdatascience.com/what-you-see-is-what-youll-get-twitter-s-new-strategy-for-displaying-images-on-the-timeline-3ddc2040c728?sk=f05fc3516c8222a6befa8171064cde97)
 
 ---
 
@@ -48,6 +54,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 ## Data Visualisation 📊
 
+* [Create GitHub’s style contributions plot for your Time Series data](https://towardsdatascience.com/create-githubs-style-contributions-plot-for-your-time-series-data-79df84ec93da?sk=0638f2b63f4193d422acd84bacefbcd0)
 * [A better way to visualize Decision Trees with the dtreeviz library](https://towardsdatascience.com/a-better-way-to-visualize-decision-trees-with-the-dtreeviz-library-758994cdf05e?sk=ad5fcdf665e07388a829bb5320be9a6f)
 * [Get Interactive plots directly with pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
 * [Cluster Analysis in Tableau](https://towardsdatascience.com/cluster-analysis-in-tableau-1f19acd0c647?sk=beba142dcbbe79a5213406209e863d24)
@@ -88,16 +95,16 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Pandas 🐼
 
-
-1. [Get Interactive plots directly with Pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
-2. [There is more to ‘pandas.read_csv()’ than meets the eye](https://towardsdatascience.com/there-is-more-to-pandas-read-csv-than-meets-the-eye-8654cb2b3a03?sk=aa22f4549a7243d53f6ee8fb4dcf43d1)
-3. [A hands-on guide to ‘sorting’ dataframes in Pandas](https://towardsdatascience.com/a-hands-on-guide-to-sorting-dataframes-in-pandas-384996ca6bb8?sk=abcbdc638ee7604c7442db36cb4095a9)
-4. [Reducing memory usage in pandas with smaller datatypes](https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af?sk=55b417ed722bc364a141a9862ee33893)
-5. [Loading large datasets in Pandas](https://towardsdatascience.com/loading-large-datasets-in-pandas-11bdddd36f7b?sk=a52a0f863382bd2d5b631d81838ea8de)
-6. [Extracting information from XML files into a Pandas dataframe](https://towardsdatascience.com/extracting-information-from-xml-files-into-a-pandas-dataframe-11f32883ce45?sk=1e4637acfc8564ce81f679d37146bb5d)
-7. [PandasGUI: Analyzing Pandas dataframes with a Graphical User Interface](https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d?sk=d7f8f67ed76d07fbe3265f6362b74572)
-8. [Beware of the Dummy variable trap in pandas](https://towardsdatascience.com/beware-of-the-dummy-variable-trap-in-pandas-727e8e6b8bde?sk=dda10bd07bd56611149941016ab7cb91)
-9. [Pandas Plot: Deep Dive Into Plotting Directly with Pandas](https://neptune.ai/blog/pandas-plot-deep-dive-into-plotting-directly-with-pandas)
+* [From clipboard to DataFrame with Pandas](https://towardsdatascience.com/from-clipboard-to-dataframe-with-pandas-6c212b1d7ed8?sk=520d3daa06749bfc32eef11e8b297973)
+* [Get Interactive plots directly with Pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
+* [There is more to ‘pandas.read_csv()’ than meets the eye](https://towardsdatascience.com/there-is-more-to-pandas-read-csv-than-meets-the-eye-8654cb2b3a03?sk=aa22f4549a7243d53f6ee8fb4dcf43d1)
+* [A hands-on guide to ‘sorting’ dataframes in Pandas](https://towardsdatascience.com/a-hands-on-guide-to-sorting-dataframes-in-pandas-384996ca6bb8?sk=abcbdc638ee7604c7442db36cb4095a9)
+* [Reducing memory usage in pandas with smaller datatypes](https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af?sk=55b417ed722bc364a141a9862ee33893)
+* [Loading large datasets in Pandas](https://towardsdatascience.com/loading-large-datasets-in-pandas-11bdddd36f7b?sk=a52a0f863382bd2d5b631d81838ea8de)
+* [Extracting information from XML files into a Pandas dataframe](https://towardsdatascience.com/extracting-information-from-xml-files-into-a-pandas-dataframe-11f32883ce45?sk=1e4637acfc8564ce81f679d37146bb5d)
+*[PandasGUI: Analyzing Pandas dataframes with a Graphical User Interface](https://towardsdatascience.com/pandasgui-analyzing-pandas-dataframes-with-a-graphical-user-interface-36f5c1357b1d?sk=d7f8f67ed76d07fbe3265f6362b74572)
+* [Beware of the Dummy variable trap in pandas](https://towardsdatascience.com/beware-of-the-dummy-variable-trap-in-pandas-727e8e6b8bde?sk=dda10bd07bd56611149941016ab7cb91)
+* [Pandas Plot: Deep Dive Into Plotting Directly with Pandas](https://neptune.ai/blog/pandas-plot-deep-dive-into-plotting-directly-with-pandas)
 ---
 
 ## Programming & Python ⌨️  🐍
@@ -118,6 +125,8 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 
 ## Machine Learning 🤖
+
+* [Tensors are all you need](https://towardsdatascience.com/speed-up-the-inference-in-traditional-machine-learning-models-by-converting-them-into-tensor-based-efe6bbe5c92d?sk=4b6761f06e81403fb6297cb4d7c66f3c)
 * [Five Open-Source Machine learning libraries worth checking out](https://towardsdatascience.com/five-open-source-machine-learning-libraries-worth-checking-out-c47f95d2d014?sk=e75d959d86dee89672c3b5d1a63d2643)
 *  [Understanding Decision Trees](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-decision-trees-c24dfd490abb?source=friends_link&sk=2a253a6f63ac3ed25aea783a9eed4de1)
 * [Alternative Python libraries for Data Science](https://towardsdatascience.com/alternative-python-libraries-for-data-science-1ae2f0611542?sk=50fa405d4fce73638895e77730426c8f)
@@ -133,16 +142,18 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 ## Natural Language Processing 💬
 
-1. [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
-2. [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
-3. [Free hands-on tutorials to get started in Natural Language Processing](https://towardsdatascience.com/free-hands-on-tutorials-to-get-started-in-natural-language-processing-6a378e24dbfc?sk=fb35bce5f004ccba75b960e664d4e26a)
+* [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
+* [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
+* [Free hands-on tutorials to get started in Natural Language Processing](https://towardsdatascience.com/free-hands-on-tutorials-to-get-started-in-natural-language-processing-6a378e24dbfc?sk=fb35bce5f004ccba75b960e664d4e26a)
 ---
-## SQL 📋
+## SQL 
 
 * [Programming with Databases in Python using SQLite](https://medium.com/analytics-vidhya/programming-with-databases-in-python-using-sqlite-4cecbef51ab9?source=friends_link&sk=3d2c82b0bd41c6a39ed5ddfc0d7d2b7a)
 * [SQL Interface within JupyterLab](https://pandeyparul.medium.com/sql-interface-within-jupyterlab-f81df1499602?sk=98b7bcdb94b8f994b77249c362f3bf65)
 ---
 ## Satellite Imagery Analysis
+
+* [Visualizing India’s Seismic activity](https://towardsdatascience.com/visualizing-indias-seismic-activity-4ed390de298c?sk=12befb1ffd589de4bb5251892b161a25)
 ---
 ## Thought Articles on AI 🤔
 
