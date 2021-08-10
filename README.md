@@ -54,6 +54,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 ## Data Visualisation 📊
 
+* [Increase the cuteness quotient of your charts](https://towardsdatascience.com/increase-the-cuteness-quotient-of-your-charts-fda960d84bee?sk=23debff855c99f18757c6e4d60b25791)
 * [Create GitHub’s style contributions plot for your Time Series data](https://towardsdatascience.com/create-githubs-style-contributions-plot-for-your-time-series-data-79df84ec93da?sk=0638f2b63f4193d422acd84bacefbcd0)
 * [A better way to visualize Decision Trees with the dtreeviz library](https://towardsdatascience.com/a-better-way-to-visualize-decision-trees-with-the-dtreeviz-library-758994cdf05e?sk=ad5fcdf665e07388a829bb5320be9a6f)
 * [Get Interactive plots directly with pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
