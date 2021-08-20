@@ -71,6 +71,8 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ---
 ## Deep Learning
+
+* [Tensors are all you need](https://towardsdatascience.com/speed-up-the-inference-in-traditional-machine-learning-models-by-converting-them-into-tensor-based-efe6bbe5c92d?sk=4b6761f06e81403fb6297cb4d7c66f3c)
 ---
 
 ## Explainable AI 🧠
@@ -129,7 +131,6 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Machine Learning 🤖
 
-* [Tensors are all you need](https://towardsdatascience.com/speed-up-the-inference-in-traditional-machine-learning-models-by-converting-them-into-tensor-based-efe6bbe5c92d?sk=4b6761f06e81403fb6297cb4d7c66f3c)
 * [Five Open-Source Machine learning libraries worth checking out](https://towardsdatascience.com/five-open-source-machine-learning-libraries-worth-checking-out-c47f95d2d014?sk=e75d959d86dee89672c3b5d1a63d2643)
 *  [Understanding Decision Trees](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-decision-trees-c24dfd490abb?source=friends_link&sk=2a253a6f63ac3ed25aea783a9eed4de1)
 * [Alternative Python libraries for Data Science](https://towardsdatascience.com/alternative-python-libraries-for-data-science-1ae2f0611542?sk=50fa405d4fce73638895e77730426c8f)
