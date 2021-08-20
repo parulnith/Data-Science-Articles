@@ -16,6 +16,8 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 
 ## Tips & Tricks 💡
+
+* [A Tour of 10 Useful Github Features](https://towardsdatascience.com/a-tour-of-10-useful-github-features-d92dde0bf412?sk=bf7d01ee2b4bd3de6811633cf2b9491b)
 * [Automate your data science project structure in three easy steps](https://towardsdatascience.com/automate-your-data-science-project-structure-in-three-easy-steps-277c92328d24?sk=72df9f0f306dd6deb4be757008e3b956)
 * [Building a compelling Data Science Portfolio with writing](https://towardsdatascience.com/building-a-compelling-data-science-portfolio-with-writing-daceec1cd0fe?sk=55c213f08bf791f52bb0532693d5ff61)
 ---
