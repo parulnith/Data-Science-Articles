@@ -71,8 +71,6 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ---
 ## Deep Learning
-
-* [Tensors are all you need](https://towardsdatascience.com/speed-up-the-inference-in-traditional-machine-learning-models-by-converting-them-into-tensor-based-efe6bbe5c92d?sk=4b6761f06e81403fb6297cb4d7c66f3c)
 ---
 
 ## Explainable AI 🧠
@@ -84,6 +82,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 ## Kaggle 🏅
 
+* [From the game of Go to Kaggle: The story of a Kaggle Grandmaster from Taiwan](https://towardsdatascience.com/from-the-game-of-go-to-kaggle-the-story-of-a-kaggle-grandmaster-from-taiwan-5adcd4fff38d?sk=b96b3b5d78b2a3bccd7a7412dc91b372)
 * [What does it take to win a Kaggle competition? Let’s hear it from the winner himself](https://towardsdatascience.com/what-does-it-take-to-win-a-kaggle-competition-lets-hear-it-from-the-winner-himself-1d292a9f5b2d?sk=4125c06bbc74230d60c748021345575e)
 * [What it takes to become a World No 1 on Kaggle](https://towardsdatascience.com/what-it-takes-to-become-a-world-no-1-on-kaggle-f149df44e98c?sk=63dd3a58d40dbe1df9fb7cd72ea4ede6)
 * [Meet the Data Scientist who just cannot stop winning on Kaggle](https://towardsdatascience.com/meet-the-data-scientist-who-just-cannot-stop-winning-on-kaggle-dfc0e6fe88f8?sk=bd58ca871ab26ab13917b338020c4a0c)
@@ -131,6 +130,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Machine Learning 🤖
 
+* [Tensors are all you need](https://towardsdatascience.com/speed-up-the-inference-in-traditional-machine-learning-models-by-converting-them-into-tensor-based-efe6bbe5c92d?sk=4b6761f06e81403fb6297cb4d7c66f3c)
 * [Five Open-Source Machine learning libraries worth checking out](https://towardsdatascience.com/five-open-source-machine-learning-libraries-worth-checking-out-c47f95d2d014?sk=e75d959d86dee89672c3b5d1a63d2643)
 *  [Understanding Decision Trees](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-decision-trees-c24dfd490abb?source=friends_link&sk=2a253a6f63ac3ed25aea783a9eed4de1)
 * [Alternative Python libraries for Data Science](https://towardsdatascience.com/alternative-python-libraries-for-data-science-1ae2f0611542?sk=50fa405d4fce73638895e77730426c8f)
