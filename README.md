@@ -42,6 +42,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Vegetation Index calculation from Satellite Imagery](https://towardsdatascience.com/vegetation-index-calculation-from-satellite-imagery-6f5c209cbdb1?sk=1c69961cdc840647c5c6ed7f0096ae8e)
 * [Face Detection with Python using OpenCV](https://levelup.gitconnected.com/face-detection-with-python-using-opencv-5c27e521c19a?source=friends_link&sk=2f50e499bec15b1a628ec173664b25fb)
 ---
+
 ## Data Analysis 📈
 * [The curious case of Simpson’s Paradox](https://towardsdatascience.com/the-curious-case-of-simpsons-paradox-6f178548d7e8?sk=ef5825185b5781525f0de82c9b23bf70)
 * [Reducing memory usage in pandas with smaller datatypes](https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af?sk=55b417ed722bc364a141a9862ee33893)
@@ -130,6 +131,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Machine Learning 🤖
 
+* [Reviewing the TensorFlow Decision Forests library](https://towardsdatascience.com/reviewing-the-tensorflow-decision-forests-library-1ecf50ae00c3?sk=2b5b2a5e27ce92ed0c360a6d9c5696eb)
 * [Tensors are all you need](https://towardsdatascience.com/speed-up-the-inference-in-traditional-machine-learning-models-by-converting-them-into-tensor-based-efe6bbe5c92d?sk=4b6761f06e81403fb6297cb4d7c66f3c)
 * [Five Open-Source Machine learning libraries worth checking out](https://towardsdatascience.com/five-open-source-machine-learning-libraries-worth-checking-out-c47f95d2d014?sk=e75d959d86dee89672c3b5d1a63d2643)
 *  [Understanding Decision Trees](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-decision-trees-c24dfd490abb?source=friends_link&sk=2a253a6f63ac3ed25aea783a9eed4de1)
@@ -146,6 +148,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 ## Natural Language Processing 💬
 
+* [Analysis of Emotion Data: A Dataset for Emotion Recognition Tasks](https://towardsdatascience.com/analysis-of-the-emotion-data-a-dataset-for-emotion-recognition-tasks-6b8c9a5dfe57?sk=1ba9d098f5b3f4d0fe27475403d495b3)
 * [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
 * [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
 * [Free hands-on tutorials to get started in Natural Language Processing](https://towardsdatascience.com/free-hands-on-tutorials-to-get-started-in-natural-language-processing-6a378e24dbfc?sk=fb35bce5f004ccba75b960e664d4e26a)
