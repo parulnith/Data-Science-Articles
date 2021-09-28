@@ -146,6 +146,11 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Data Science Resources 
 * [My Top Five Data Science Reads of 2018](https://towardsdatascience.com/my-top-five-data-science-reads-of-2018-687afadcbe29)
 ---
+
+## Linear Algebra
+* [A quick guide to understanding Vectors Norms](https://towardsdatascience.com/a-quick-guide-to-understanding-vectors-norms-84eb802f81f9?sk=9afc2f21658bf2a961d6ef473cdde930)
+---
+
 ## Natural Language Processing 💬
 
 * [Analysis of Emotion Data: A Dataset for Emotion Recognition Tasks](https://towardsdatascience.com/analysis-of-the-emotion-data-a-dataset-for-emotion-recognition-tasks-6b8c9a5dfe57?sk=1ba9d098f5b3f4d0fe27475403d495b3)
