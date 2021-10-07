@@ -4,3 +4,5 @@ If you are beginning your journey in machine learning research, there are few sa
 Link to the paper: [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/pdf/2108.02497.pdf?utm_campaign=Breaking%20the%20Jargons&utm_medium=email&utm_source=Revue%20newsletter)
 
 ![](https://imgur.com/RLBoDqK.png)
+
+Higher resolution image: https://imgur.com/RLBoDqK
