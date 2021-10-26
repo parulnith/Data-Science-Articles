@@ -24,6 +24,8 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 # Research Paper Summaries
 
+* [Overcoming ImageNet dataset biases with PASS](https://towardsdatascience.com/overcoming-imagenet-dataset-biases-with-pass-6e54c66e77a?sk=5aa03552867444819f9bd040b565e47f)
+
 * [What you see is what you’ll get: Twitter’s new strategy for displaying Images on the timeline](https://towardsdatascience.com/what-you-see-is-what-youll-get-twitter-s-new-strategy-for-displaying-images-on-the-timeline-3ddc2040c728?sk=f05fc3516c8222a6befa8171064cde97)
 
 ---
