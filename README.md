@@ -17,6 +17,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ## Interviews 🎙️
 
 * [Don’t just take notes — turn them into articles and share them with others-An interview with Alexey Grigorev, author of the book- Machine Learning Bookcamp](https://towardsdatascience.com/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29?sk=fd4d5bee244fec2e9d590bebee267817)
+* [You do not become better by employing fancy techniques but by working on the fundamentals](https://towardsdatascience.com/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c)
 
 ## Tips & Tricks 💡
 
