@@ -18,6 +18,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 * [Don’t just take notes — turn them into articles and share them with others-An interview with Alexey Grigorev, author of the book- Machine Learning Bookcamp](https://towardsdatascience.com/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29?sk=fd4d5bee244fec2e9d590bebee267817)
 * [You do not become better by employing fancy techniques but by working on the fundamentals](https://towardsdatascience.com/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c)
+* [Publishing Is Powerful as It Serves as a Catalyst for Scope and Writing Decisions](https://towardsdatascience.com/publishing-is-powerful-as-it-serves-as-a-catalyst-for-scope-and-writing-decisions-713306e8a0d?sk=0383cbe49da41530ad3935af39d5787f)
 
 ## Tips & Tricks 💡
 
@@ -27,7 +28,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [My favorite tools for managing, organizing, and reading research papers](https://towardsdatascience.com/my-favorite-tools-for-managing-organizing-and-reading-research-papers-56525083b827?sk=ad45fcebb0e4989b7f0e4fdbf31b9272)
 ---
 
-# Research Paper Summaries
+# Research Papers
 
 * [Overcoming ImageNet dataset biases with PASS](https://towardsdatascience.com/overcoming-imagenet-dataset-biases-with-pass-6e54c66e77a?sk=5aa03552867444819f9bd040b565e47f)
 * [What you see is what you’ll get: Twitter’s new strategy for displaying Images on the timeline](https://towardsdatascience.com/what-you-see-is-what-youll-get-twitter-s-new-strategy-for-displaying-images-on-the-timeline-3ddc2040c728?sk=f05fc3516c8222a6befa8171064cde97)
