@@ -86,10 +86,11 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Explainable AI 🧠
 
+
+* [Explain Your Machine Learning Model Predictions with GPU-Accelerated SHAP](https://developer.nvidia.com/blog/explain-your-machine-learning-model-predictions-with-gpu-accelerated-shap/?ncid=so-link-828764-vt27&=&linkId=100000153561822#entry-content-comments)
 * [Interpretable or Accurate? Why not both?](https://towardsdatascience.com/interpretable-or-accurate-why-not-both-4d9c73512192?sk=2f44377541a2f49939c921e54eb3cde7)
 * [Shapley summary plots: the latest addition to the H2O.ai’s Explainability arsenal](https://pandeyparul.medium.com/shapley-summary-plots-the-latest-addition-to-the-h2o-ais-explainability-arsenal-fe640ace9125)
 * [Interpretable Machine Learning](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b?sk=784990a990726c4f1ef82e7d6a359630)
-* 
 ---
 ## Kaggle 🏅
 
