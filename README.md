@@ -19,6 +19,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Don’t just take notes — turn them into articles and share them with others-An interview with Alexey Grigorev, author of the book- Machine Learning Bookcamp](https://towardsdatascience.com/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29?sk=fd4d5bee244fec2e9d590bebee267817)
 * [You do not become better by employing fancy techniques but by working on the fundamentals](https://towardsdatascience.com/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c)
 * [Publishing Is Powerful as It Serves as a Catalyst for Scope and Writing Decisions](https://towardsdatascience.com/publishing-is-powerful-as-it-serves-as-a-catalyst-for-scope-and-writing-decisions-713306e8a0d?sk=0383cbe49da41530ad3935af39d5787f)
+* [Writing a book on NLP is a bit like solving a complex data science project](https://towardsdatascience.com/writing-a-book-on-nlp-is-a-bit-like-solving-a-complex-data-science-project-c0848f975ca?sk=21e66888b1c0f2dd7e0b3f28177b0ca5)
 
 ## Tips & Tricks 💡
 
