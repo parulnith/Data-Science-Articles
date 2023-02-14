@@ -159,7 +159,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 
 ## Linear Algebra
-* [A quick guide to understanding Vectors Norms](https://towardsdatascience.com/a-quick-guide-to-understanding-vectors-norms-84eb802f81f9?sk=9afc2f21658bf2a961d6ef473cdde930)
+* [A quick guide to understanding Vectors Norms](https://builtin.com/data-science/vector-norms)
 ---
 
 ## Natural Language Processing 💬
