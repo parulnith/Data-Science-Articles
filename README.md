@@ -83,6 +83,8 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ---
 ## Deep Learning
+
+* [Improving Search Query Accuracy: A Beginner’s Guide to Text Regression with H2O Hydrogen Torch](https://h2o.ai/blog/improving-search-query-accuracy-a-beginners-guide-to-text-regression-with-h2o-hydrogen-torch/)
 ---
 
 ## Explainable AI 🧠
