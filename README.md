@@ -169,6 +169,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
 * [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
 * [Free hands-on tutorials to get started in Natural Language Processing](https://towardsdatascience.com/free-hands-on-tutorials-to-get-started-in-natural-language-processing-6a378e24dbfc?sk=fb35bce5f004ccba75b960e664d4e26a)
+* [Effortless Fine-Tuning of Large Language Models with Open-Source H2O LLM Studio](https://medium.com/@pandeyparul/effortless-fine-tuning-of-large-language-models-with-open-source-h2o-llm-studio-3a54e897da95)
 ---
 ## SQL 
 
