@@ -87,9 +87,9 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Improving Search Query Accuracy: A Beginner’s Guide to Text Regression with H2O Hydrogen Torch](https://h2o.ai/blog/improving-search-query-accuracy-a-beginners-guide-to-text-regression-with-h2o-hydrogen-torch/)
 ---
 
-## Explainable AI 🧠
+## Responsible AI ⚖️
 
-
+* [Exploring the Vulnerability of Language Models to Poisoning Attacks](https://towardsdatascience.com/exploring-the-vulnerability-of-language-models-to-poisoning-attacks-d6d03bcc5ecb?sk=ba004982cf47e4fe23564339a873aec0)
 * [Explain Your Machine Learning Model Predictions with GPU-Accelerated SHAP](https://developer.nvidia.com/blog/explain-your-machine-learning-model-predictions-with-gpu-accelerated-shap/?ncid=so-link-828764-vt27&=&linkId=100000153561822#entry-content-comments)
 * [Interpretable or Accurate? Why not both?](https://towardsdatascience.com/interpretable-or-accurate-why-not-both-4d9c73512192?sk=2f44377541a2f49939c921e54eb3cde7)
 * [Shapley summary plots: the latest addition to the H2O.ai’s Explainability arsenal](https://pandeyparul.medium.com/shapley-summary-plots-the-latest-addition-to-the-h2o-ais-explainability-arsenal-fe640ace9125)
@@ -187,6 +187,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 1. [How to effectively employ an AI strategy in your business](https://towardsdatascience.com/how-to-effectively-employ-an-ai-strategy-in-your-business-d43f41aa3b04?sk=f94309bd931eb8d2f5e2e1bdd5b68efa)
 2. [AI for Everyone: Myth or Reality?](https://towardsdatascience.com/ai-for-everyone-myth-or-reality-44edc24f7982?sk=33894bf027439872081eea6f27e0f984)
+3. [How effective is Google's Bold and Responsible Approach to AI?](https://medium.com/breaking-the-jargons/how-effective-is-googles-bold-and-responsible-approach-to-ai-7b72c07fd692?sk=c04ed89cac248ddb534eed79ad6c4276)
 ---
 
 ## Show your support
