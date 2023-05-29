@@ -80,6 +80,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Advanced plots in Matplotlib - Part 1](https://towardsdatascience.com/advanced-plots-in-matplotlib-part-1-30dbb02b09ae?sk=e6675e1024de967c3b9f226fceb57ef7)
 * [Advanced plots in Matplotlib — Part 2](https://towardsdatascience.com/advanced-plots-in-matplotlib-part-2-e88f91ce9e31?sk=3acbc10d705871ad2171915c664c3a3d)
 * [Recreating Gapminder in Tableau: A Humble tribute to Hans Rosling](https://medium.com/analytics-vidhya/recreating-gapminder-in-tableau-a-humble-tribute-to-hans-rosling-53de74b18ec)
+* [Simplifying subplots creation in Matplotlib](https://towardsdatascience.com/simplifying-subplots-creation-in-matplotlib-3f6efce356b9?sk=e2e94a655aacff6201ff6e1b3e283cb9)
 
 ---
 ## Deep Learning
