@@ -135,6 +135,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Programming & Python ⌨️  🐍
 
+* [Diving Deeper into Stock Data Analysis with Python in Excel](https://www.anaconda.com/blog/diving-deeper-into-stock-data-analysis-with-python-in-excel)
 * [Five wonderful uses of ‘f- Strings’ in Python](https://towardsdatascience.com/five-wonderful-uses-of-f-strings-in-python-7980cfd31c0d?sk=f203abd1f85894bb5841bafdf00312ab)
 * [Use Colab more efficiently with these hacks](https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8?sk=e1a969fa2e30792b8d362af67dd14f0e)
 * [Enabling notifications in your Jupyter notebooks for cell completion](https://towardsdatascience.com/enabling-notifications-in-your-jupyter-notebooks-for-cell-completion-68d82b02bbc6?sk=0c1fc422f1cbde1b770dea7b87082473)
