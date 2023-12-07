@@ -23,6 +23,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Tips & Tricks 💡
 
+* [A Close Look at Colab’s new updates and enhancements](https://medium.com/towards-data-science/a-close-look-at-colabs-new-updates-and-enhancements-f1225fd5d504?sk=2d93a31c886c7690763311271bc10653)
 * [A Tour of 10 Useful Github Features](https://towardsdatascience.com/a-tour-of-10-useful-github-features-d92dde0bf412?sk=bf7d01ee2b4bd3de6811633cf2b9491b)
 * [Automate your data science project structure in three easy steps](https://towardsdatascience.com/automate-your-data-science-project-structure-in-three-easy-steps-277c92328d24?sk=72df9f0f306dd6deb4be757008e3b956)
 * [Building a compelling Data Science Portfolio with writing](https://towardsdatascience.com/building-a-compelling-data-science-portfolio-with-writing-daceec1cd0fe?sk=55c213f08bf791f52bb0532693d5ff61)
@@ -66,6 +67,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 ## Data Visualisation 📊
 
+* [Simplifying subplots creation in Matplotlib](https://towardsdatascience.com/simplifying-subplots-creation-in-matplotlib-3f6efce356b9?sk=e2e94a655aacff6201ff6e1b3e283cb9)
 * [Visualizing Decision Trees with Pybaobabdt](https://towardsdatascience.com/visualizing-decision-trees-with-pybaobabdt-f8eb5b3d0d17)
 * [Render Interactive plots with Matplotlib](https://towardsdatascience.com/render-interactive-plots-with-matplotlib-2cf0918d89c9?sk=a500b649236841f5bdf4f82c2000f586)
 * [Increase the cuteness quotient of your charts](https://towardsdatascience.com/increase-the-cuteness-quotient-of-your-charts-fda960d84bee?sk=23debff855c99f18757c6e4d60b25791)
@@ -89,7 +91,11 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 ---
 
 ## Responsible AI ⚖️
-
+* [Bridging Domains: Infusing Financial, Privacy, and Software Best Practices into ML Risk Management](https://towardsdatascience.com/bridging-domains-infusing-financial-privacy-and-software-best-practices-into-ml-risk-management-3de1fa1e6dd2?sk=aa3331a631ab6f5da22661d7866cf66d)
+* [Organizational Processes for Machine Learning Risk Management](https://towardsdatascience.com/organizational-processes-for-machine-learning-risk-management-14f4444dd07f?sk=770a7a32b5fc6b9997d7326191c9e898)
+* [Cultural Competencies for Machine Learning Risk Management](https://towardsdatascience.com/cultural-competencies-for-machine-learning-risk-management-c38616c2ccdf?sk=8ed4f0c5e9624e21d9f6dae9017d5bed)
+* [Explaining models built in H2O](https://medium.com/breaking-the-jargons/explaining-models-built-in-h2o-2c5098fa17ca?sk=1867576354fd5d37f83930d55bdd14c7)
+* [How effective is Google's Bold and Responsible Approach to AI?](https://medium.com/breaking-the-jargons/how-effective-is-googles-bold-and-responsible-approach-to-ai-7b72c07fd692?sk=c04ed89cac248ddb534eed79ad6c4276)
 * [Exploring the Vulnerability of Language Models to Poisoning Attacks](https://towardsdatascience.com/exploring-the-vulnerability-of-language-models-to-poisoning-attacks-d6d03bcc5ecb?sk=ba004982cf47e4fe23564339a873aec0)
 * [Explain Your Machine Learning Model Predictions with GPU-Accelerated SHAP](https://developer.nvidia.com/blog/explain-your-machine-learning-model-predictions-with-gpu-accelerated-shap/?ncid=so-link-828764-vt27&=&linkId=100000153561822#entry-content-comments)
 * [Interpretable or Accurate? Why not both?](https://towardsdatascience.com/interpretable-or-accurate-why-not-both-4d9c73512192?sk=2f44377541a2f49939c921e54eb3cde7)
