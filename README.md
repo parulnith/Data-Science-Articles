@@ -31,21 +31,14 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 - 🤔 [Thought Articles on AI](#thought-articles-on-ai)
 - 💡 [Tips & Tricks](#tips--tricks)
 
-## 🎙️ Interviews
-
-In this section, we explore various insights from experts in the field through engaging interviews.
-
-- [Don’t just take notes — turn them into articles and share them with others-An interview with Alexey Grigorev, author of the book- Machine Learning Bookcamp](https://towardsdatascience.com/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29?sk=fd4d5bee244fec2e9d590bebee267817)
-- [You do not become better by employing fancy techniques but by working on the fundamentals](
-
-## Interviews 🎙️
+## Interviews
 
 - [Don’t just take notes — turn them into articles and share them with others-An interview with Alexey Grigorev, author of the book- Machine Learning Bookcamp](https://towardsdatascience.com/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29?sk=fd4d5bee244fec2e9d590bebee267817)
 - [You do not become better by employing fancy techniques but by working on the fundamentals](https://towardsdatascience.com/you-do-not-become-better-by-employing-fancy-techniques-but-by-working-on-the-fundamentals-17d5c471c69c)
 - [Publishing Is Powerful as It Serves as a Catalyst for Scope and Writing Decisions](https://towardsdatascience.com/publishing-is-powerful-as-it-serves-as-a-catalyst-for-scope-and-writing-decisions-713306e8a0d?sk=0383cbe49da41530ad3935af39d5787f)
 - [Writing a book on NLP is a bit like solving a complex data science project](https://towardsdatascience.com/writing-a-book-on-nlp-is-a-bit-like-solving-a-complex-data-science-project-c0848f975ca?sk=21e66888b1c0f2dd7e0b3f28177b0ca5)
 
-## Tips & Tricks 💡
+## Tips & Tricks
 
 - [A Close Look at Colab’s new updates and enhancements](https://medium.com/towards-data-science/a-close-look-at-colabs-new-updates-and-enhancements-f1225fd5d504?sk=2d93a31c886c7690763311271bc10653)
 - [A Tour of 10 Useful Github Features](https://towardsdatascience.com/a-tour-of-10-useful-github-features-d92dde0bf412?sk=bf7d01ee2b4bd3de6811633cf2b9491b)
@@ -71,7 +64,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Computer Vision 👓
+## Computer Vision
 
 - [Increasing the amount and diversity of data using scikit-image in Python](https://towardsdatascience.com/increasing-the-amount-and-diversity-of-data-part-1-2025caf9d53c?sk=1a6ee2e4eaf01fa30714ad568242e201)
 - [Creating custom image datasets for Deep Learning projects](https://towardsdatascience.com/creating-custom-image-datasets-for-deep-learning-projects-6e5db76158d4?sk=22bb520dc0a256b2da93877521fc1b71)
@@ -80,7 +73,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Data Analysis 📈
+## Data Analysis
 
 - [The curious case of Simpson’s Paradox](https://towardsdatascience.com/the-curious-case-of-simpsons-paradox-6f178548d7e8?sk=ef5825185b5781525f0de82c9b23bf70)
 - [Reducing memory usage in pandas with smaller datatypes](https://towardsdatascience.com/reducing-memory-usage-in-pandas-with-smaller-datatypes-b527635830af?sk=55b417ed722bc364a141a9862ee33893)
@@ -94,7 +87,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Data Visualisation 📊
+## Data Visualisation
 
 - [Simplifying subplots creation in Matplotlib](https://towardsdatascience.com/simplifying-subplots-creation-in-matplotlib-3f6efce356b9?sk=e2e94a655aacff6201ff6e1b3e283cb9)
 - [Visualizing Decision Trees with Pybaobabdt](https://towardsdatascience.com/visualizing-decision-trees-with-pybaobabdt-f8eb5b3d0d17)
@@ -121,7 +114,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Responsible AI ⚖️
+## Responsible AI
 
 - [Bridging Domains: Infusing Financial, Privacy, and Software Best Practices into ML Risk Management](https://towardsdatascience.com/bridging-domains-infusing-financial-privacy-and-software-best-practices-into-ml-risk-management-3de1fa1e6dd2?sk=aa3331a631ab6f5da22661d7866cf66d)
 - [Organizational Processes for Machine Learning Risk Management](https://towardsdatascience.com/organizational-processes-for-machine-learning-risk-management-14f4444dd07f?sk=770a7a32b5fc6b9997d7326191c9e898)
@@ -136,7 +129,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Kaggle 🏅
+## Kaggle
 
 - [From the game of Go to Kaggle: The story of a Kaggle Grandmaster from Taiwan](https://towardsdatascience.com/from-the-game-of-go-to-kaggle-the-story-of-a-kaggle-grandmaster-from-taiwan-5adcd4fff38d?sk=b96b3b5d78b2a3bccd7a7412dc91b372)
 - [What does it take to win a Kaggle competition? Let’s hear it from the winner himself](https://towardsdatascience.com/what-does-it-take-to-win-a-kaggle-competition-lets-hear-it-from-the-winner-himself-1d292a9f5b2d?sk=4125c06bbc74230d60c748021345575e)
@@ -154,7 +147,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Pandas 🐼
+## Pandas
 
 - [From clipboard to DataFrame with Pandas](https://towardsdatascience.com/from-clipboard-to-dataframe-with-pandas-6c212b1d7ed8?sk=520d3daa06749bfc32eef11e8b297973)
 - [Get Interactive plots directly with Pandas](https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426?sk=8c22516919cc430011ab4cd5b8bfe821)
@@ -169,7 +162,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Programming & Python ⌨️ 🐍
+## Programming & Python
 
 - [Diving Deeper into Stock Data Analysis with Python in Excel](https://www.anaconda.com/blog/diving-deeper-into-stock-data-analysis-with-python-in-excel)
 - [Five wonderful uses of ‘f- Strings’ in Python](https://towardsdatascience.com/five-wonderful-uses-of-f-strings-in-python-7980cfd31c0d?sk=f203abd1f85894bb5841bafdf00312ab)
@@ -187,7 +180,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Machine Learning 🤖
+## Machine Learning
 
 - [Reviewing the TensorFlow Decision Forests library](https://towardsdatascience.com/reviewing-the-tensorflow-decision-forests-library-1ecf50ae00c3?sk=2b5b2a5e27ce92ed0c360a6d9c5696eb)
 - [Tensors are all you need](https://towardsdatascience.com/speed-up-the-inference-in-traditional-machine-learning-models-by-converting-them-into-tensor-based-efe6bbe5c92d?sk=4b6761f06e81403fb6297cb4d7c66f3c)
@@ -199,7 +192,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Course Reviews 🗓️
+## Course Reviews
 
 - [Reviewing the recently released HuggingFace 🤗 Course](https://towardsdatascience.com/reviewing-the-recently-released-huggingface-course-a6b4ace16167?sk=43cdf302bdb0b3c07d1c1bbe421e3955)
 
@@ -217,7 +210,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Natural Language Processing 💬
+## Natural Language Processing
 
 - [Analysis of Emotion Data: A Dataset for Emotion Recognition Tasks](https://towardsdatascience.com/analysis-of-the-emotion-data-a-dataset-for-emotion-recognition-tasks-6b8c9a5dfe57?sk=1ba9d098f5b3f4d0fe27475403d495b3)
 - [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
@@ -241,7 +234,7 @@ In this section, we explore various insights from experts in the field through e
 
 ---
 
-## Thought Articles on AI 🤔
+## Thought Articles on AI
 
 1. [How to effectively employ an AI strategy in your business](https://towardsdatascience.com/how-to-effectively-employ-an-ai-strategy-in-your-business-d43f41aa3b04?sk=f94309bd931eb8d2f5e2e1bdd5b68efa)
 2. [AI for Everyone: Myth or Reality?](https://towardsdatascience.com/ai-for-everyone-myth-or-reality-44edc24f7982?sk=33894bf027439872081eea6f27e0f984)
