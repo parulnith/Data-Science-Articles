@@ -10,7 +10,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 # Table of Contents
 
-- ⚙️ Automated Machine Learning
+- [⚙️ Automated Machine Learning](#automated-machine-learning)
 - 👓 Computer Vision
 - 🗓️ Course Reviews
 - 📊 Data Analysis
