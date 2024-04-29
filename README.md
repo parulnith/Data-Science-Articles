@@ -11,25 +11,32 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 # Table of Contents
 
 - [⚙️ Automated Machine Learning](#automated-machine-learning)
-- 👓 Computer Vision
-- 🗓️ Course Reviews
-- 📊 Data Analysis
-- 📘 Data Science Resources
-- 🎨 Data Visualisation
-- 🧠 Deep Learning
-- 🎙️ Interviews
-- 🏅 Kaggle
-- 🔢 Linear Algebra
-- 🤖 Machine Learning
-- 💬 Natural Language Processing
-- 🐼 Pandas
-- 🐍 Programming & Python
-- 📄 Research Papers
-- ⚖️ Responsible AI
-- 🛰️ Satellite Imagery Analysis
-- 🗃️ SQL
-- 🤔 Thought Articles on AI
-- 💡 Tips & Tricks
+- 👓 [Computer Vision](#computer-vision)
+- 🗓️ [Course Reviews](#course-reviews)
+- 📊 [Data Analysis](#data-analysis)
+- 📘 [Data Science Resources](#data-science-resources)
+- 🎨 [Data Visualisation](#data-visualisation)
+- 🧠 [Deep Learning](#deep-learning)
+- 🎙️ [Interviews](#interviews)
+- 🏅 [Kaggle](#kaggle)
+- 🔢 [Linear Algebra](#linear-algebra)
+- 🤖 [Machine Learning](#machine-learning)
+- 💬 [Natural Language Processing](#natural-language-processing)
+- 🐼 [Pandas](#pandas)
+- ⌨️ 🐍 [Programming & Python](#programming--python)
+- 📄 [Research Papers](#research-papers)
+- ⚖️ [Responsible AI](#responsible-ai)
+- 🛰️ [Satellite Imagery Analysis](#satellite-imagery-analysis)
+- 🗃️ [SQL](#sql)
+- 🤔 [Thought Articles on AI](#thought-articles-on-ai)
+- 💡 [Tips & Tricks](#tips--tricks)
+
+## 🎙️ Interviews
+
+In this section, we explore various insights from experts in the field through engaging interviews.
+
+- [Don’t just take notes — turn them into articles and share them with others-An interview with Alexey Grigorev, author of the book- Machine Learning Bookcamp](https://towardsdatascience.com/dont-just-take-notes-turn-them-into-articles-and-share-them-with-others-72aa43b83e29?sk=fd4d5bee244fec2e9d590bebee267817)
+- [You do not become better by employing fancy techniques but by working on the fundamentals](
 
 ## Interviews 🎙️
 
@@ -56,7 +63,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ---
 
-## Automated Machine Learning ⚙️
+## Automated Machine Learning
 
 - [H2O AI Hybrid Cloud: Democratizing AI for every person and every organization](https://pandeyparul.medium.com/h2o-ai-hybrid-cloud-democratizing-ai-for-every-person-and-every-organization-8ebe770f15e8)
 - [Automate your Model Documentation using H2O AutoDoc](https://towardsdatascience.com/automate-your-model-documentation-using-h2o-autodoc-46ce82701a4d)
