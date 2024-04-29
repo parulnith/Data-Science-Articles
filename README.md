@@ -186,7 +186,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 * [Programming with Databases in Python using SQLite](https://medium.com/analytics-vidhya/programming-with-databases-in-python-using-sqlite-4cecbef51ab9?source=friends_link&sk=3d2c82b0bd41c6a39ed5ddfc0d7d2b7a)
 * [SQL Interface within JupyterLab](https://pandeyparul.medium.com/sql-interface-within-jupyterlab-f81df1499602?sk=98b7bcdb94b8f994b77249c362f3bf65)
 ---
-## Satellite Imagery Analysis
+## Satelite Imagery Analysis
 
 * [Visualizing India’s Seismic activity](https://towardsdatascience.com/visualizing-indias-seismic-activity-4ed390de298c?sk=12befb1ffd589de4bb5251892b161a25)
 * [Interactive Geographical maps with GeoPandas](https://towardsdatascience.com/interactive-geographical-maps-with-geopandas-4586a9d7cc10)
