@@ -24,17 +24,20 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 - 🤖 [Machine Learning](#machine-learning)
 - 💬 [Natural Language Processing](#natural-language-processing)
 - 🐼 [Pandas](#pandas)
-- ⌨️ 🐍 [Programming & Python](#programming--python)
+- 🐍 [Programming & Python](#programming--python)
 - 📄 [Research Papers](#research-papers)
 - ⚖️ [Responsible AI](#responsible-ai)
 - 🛰️ [Satellite Imagery Analysis](#satellite-imagery-analysis)
 - 🗃️ [SQL](#sql)
 - 🤔 [Thought Articles on AI](#thought-articles-on-ai)
 - 💡 [Tips & Tricks](#tips--tricks)
+- [Miscellaneous](miscellaneous)
 
 ## Generative AI
 
 - [Can Recommendations from LLMs be manipulated to enhance a product’s visibility?](https://towardsdatascience.com/can-recommendations-from-llms-be-manipulated-to-enhance-a-products-visibility-64c64fa9cd24?sk=45c676b78c05de65cea7da5940c21590)
+- [Visual Guides to understand the basics of Large Language Models](https://medium.com/towards-data-science/visual-guides-to-understand-the-basics-of-large-language-models-0715701bdd20?sk=a1dc6df982b6b03ba2fb4bd93623db4e)
+- [Insights into Llama 2 Development: Notes on Angela Fan’s Lecture](https://medium.com/@pandeyparul/insights-into-llama-2-development-notes-on-angela-fans-lecture-a787a6fdadce?sk=f1765789488b666958f0daa6322c368f)
 
 ## Interviews
 
@@ -241,11 +244,15 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 
 ## Thought Articles on AI
 
-1. [How to effectively employ an AI strategy in your business](https://towardsdatascience.com/how-to-effectively-employ-an-ai-strategy-in-your-business-d43f41aa3b04?sk=f94309bd931eb8d2f5e2e1bdd5b68efa)
-2. [AI for Everyone: Myth or Reality?](https://towardsdatascience.com/ai-for-everyone-myth-or-reality-44edc24f7982?sk=33894bf027439872081eea6f27e0f984)
-3. [How effective is Google's Bold and Responsible Approach to AI?](https://medium.com/breaking-the-jargons/how-effective-is-googles-bold-and-responsible-approach-to-ai-7b72c07fd692?sk=c04ed89cac248ddb534eed79ad6c4276)
+- [How to effectively employ an AI strategy in your business](https://towardsdatascience.com/how-to-effectively-employ-an-ai-strategy-in-your-business-d43f41aa3b04?sk=f94309bd931eb8d2f5e2e1bdd5b68efa)
+- [AI for Everyone: Myth or Reality?](https://towardsdatascience.com/ai-for-everyone-myth-or-reality-44edc24f7982?sk=33894bf027439872081eea6f27e0f984)
+- [How effective is Google's Bold and Responsible Approach to AI?](https://medium.com/breaking-the-jargons/how-effective-is-googles-bold-and-responsible-approach-to-ai-7b72c07fd692?sk=c04ed89cac248ddb534eed79ad6c4276)
 
 ---
+
+## Miscellaneous
+
+- [Books I enjoyed reading in 2023!](https://medium.com/@pandeyparul/books-i-enjoyed-reading-in-2023-67fd8de44c77?sk=7af5b00d9f523e4806598aae93505f76)
 
 ## Show your support
 
