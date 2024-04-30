@@ -4,7 +4,7 @@
 
 </div>
 
-A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul) as well as my [Website](parulpandey.com).
+A collection of my blogs on Data Science and Machine learning.These are hosted on [Medium](https://medium.com/@pandeyparul)
 
 - You can also add [this link](https://medium.com/feed/@pandeyparul) to your RSS feed to get the notifications on my latest articles.
 
@@ -17,6 +17,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 - 📘 [Data Science Resources](#data-science-resources)
 - 🎨 [Data Visualisation](#data-visualisation)
 - 🧠 [Deep Learning](#deep-learning)
+- 🤖 [Generative AI](#generative-ai)
 - 🎙️ [Interviews](#interviews)
 - 🏅 [Kaggle](#kaggle)
 - 🔢 [Linear Algebra](#linear-algebra)
@@ -30,6 +31,10 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 - 🗃️ [SQL](#sql)
 - 🤔 [Thought Articles on AI](#thought-articles-on-ai)
 - 💡 [Tips & Tricks](#tips--tricks)
+
+## Generative AI
+
+- [Can Recommendations from LLMs be manipulated to enhance a product’s visibility?](https://towardsdatascience.com/can-recommendations-from-llms-be-manipulated-to-enhance-a-products-visibility-64c64fa9cd24?sk=45c676b78c05de65cea7da5940c21590)
 
 ## Interviews
 
