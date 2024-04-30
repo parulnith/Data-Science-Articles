@@ -31,7 +31,7 @@ A collection of my blogs on Data Science and Machine learning.These are hosted o
 - 🗃️ [SQL](#sql)
 - 🤔 [Thought Articles on AI](#thought-articles-on-ai)
 - 💡 [Tips & Tricks](#tips--tricks)
-- [Miscellaneous](miscellaneous)
+- [Miscellaneous](#miscellaneous)
 
 ## Generative AI
 
