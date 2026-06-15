@@ -1,0 +1,12 @@
+country_name,region,market_size_score,digital_adoption_score,average_deal_value_index,sales_cycle_index
+United States of America,North America,97.0,94.7,117.1,74.4
+United Kingdom,Europe,74.0,91.9,105.1,70.8
+France,Europe,72.9,86.9,100.7,66.5
+Germany,Europe,81.8,83.6,106.0,72.1
+India,Asia-Pacific,85.5,76.3,76.2,60.6
+Brazil,Latin America,76.1,65.1,64.2,59.5
+Canada,North America,65.7,87.1,102.9,73.3
+Spain,Europe,62.0,68.8,84.8,65.6
+Italy,Europe,55.3,80.7,77.9,54.3
+Australia,Asia-Pacific,60.8,84.1,95.7,72.8
+World,Aggregate,75.0,75.0,85.0,65.0
